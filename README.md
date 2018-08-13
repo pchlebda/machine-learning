@@ -7,6 +7,6 @@
 - [Udacity](#udacity)
 
 
-## Udacity - Intro to Machine Learning. (Here)[https://classroom.udacity.com/courses/ud120] is the course website
+## Udacity - Intro to Machine Learning. [Here](https://classroom.udacity.com/courses/ud120) is the course website
 
 
