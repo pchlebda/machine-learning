@@ -1,4 +1,4 @@
-#Piotr Chlebda - My way to ML/AI
+# Piotr Chlebda - My way to ML/AI
 
 
 ## This repository contains projects from course and my pet projects in AI/ML related topics.
