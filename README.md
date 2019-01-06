@@ -5,7 +5,7 @@
 
 ## Table of contents
 - [Udacity](#udacity)
-- [Tree]#(tree)
+- [Tree](#tree)
 
 
 ## Udacity - Intro to Machine Learning. [Here](https://classroom.udacity.com/courses/ud120) is the course website.
