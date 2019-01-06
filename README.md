@@ -5,8 +5,9 @@
 
 ## Table of contents
 - [Udacity](#udacity)
+- [Tree]#(tree)
 
 
-## Udacity - Intro to Machine Learning. [Here](https://classroom.udacity.com/courses/ud120) is the course website
-
+## Udacity - Intro to Machine Learning. [Here](https://classroom.udacity.com/courses/ud120) is the course website.
+## Tree - Decision tree building alghoritm from "Machine Learning n action" book.
 
